@@ -20,8 +20,7 @@ recently `cloud-itonami-isic-9522` (repair of household appliances).
 
 This blueprint's own `:itonami.blueprint/governor` keyword,
 `:research-integrity-governor`, is IDENTICAL to `research`/7210's
-(research and experimental development on natural sciences and
-engineering). Before this build, the fleet-wide governor-name-
+(ISIC 7210). Before this build, the fleet-wide governor-name-
 collision survey (`sportsclub`/9312's methodology) had flagged this as
 a hard blocker. `commrepair`/9512's own ADR-0001 established that the
 collision constraint was never a structural requirement -- sharing a
