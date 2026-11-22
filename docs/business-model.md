@@ -42,8 +42,7 @@
 ## Research Integrity Governor: decision rule
 
 This vertical's governor shares its name (`:research-integrity-
-governor`) with `cloud-itonami-isic-7210`'s (research and experimental
-development on natural sciences and engineering). This is a deliberate
+governor`) with `cloud-itonami-isic-7210`'s (ISIC 7210). This is a deliberate
 reuse, not a naming error: both actors perform research-integrity
 oversight of an R&D lab publishing findings reports, differing only in
 subject domain. The genuinely distinguishing concern this vertical
